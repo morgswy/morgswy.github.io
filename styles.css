@@ -220,9 +220,9 @@ a { color: inherit; }
 
 .hero-photo img {
   width: 220px;
-  height: 242px;
+  height: 220px;
   object-fit: cover;
-  border-radius: 22px;
+  border-radius: 50%;
   border: 1px solid var(--border);
   box-shadow: var(--shadow);
   flex-shrink: 0;
